@@ -1,5 +1,5 @@
-# Data Science and Machine Learning Kurs 2021
+# Data Science und Machine Learning Kurs 2021
 
-# Data Sources
+# Daten Quellen
 
 - `data/avocado.csv`: http://www.hassavocadoboard.com/retail/volume-and-price-data
