@@ -3,3 +3,4 @@
 # Daten Quellen
 
 - `data/avocado.csv`: http://www.hassavocadoboard.com/retail/volume-and-price-data
+- `data/penguins.csv`: https://github.com/allisonhorst/palmerpenguins
